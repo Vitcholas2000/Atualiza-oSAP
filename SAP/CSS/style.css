@@ -1,0 +1,67 @@
+#Barra{
+    width: 100%;
+    height: 2%;
+}
+
+body{
+    margin:0;
+}
+
+header{
+    background-color: #DCDCDC;
+}
+
+#Titulo{
+    margin: 0 0 0.2% 0.5%;
+}
+
+#ButtonSave{
+    padding: 0.01%;
+    padding-right: 1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 30px;
+    width: 65px;
+}
+
+#ButtonSave img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.01% 0 1% 0;
+}
+
+#ButtonCancel{
+    padding: 0.01%;
+    padding-right: 1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 75px;
+}
+
+#ButtonCancel img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.01% 0 1% 0;
+}
+
+#ButtonPencil{
+    padding: 0.01%;
+    padding-right: 1%;
+    position: relative;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    height: 25px;
+    width: 65px;
+}
+
+#ButtonPencil img{
+    width: 20px;
+    margin-right: 5px;
+    padding: 0.5% 0 1% 0;
+}
